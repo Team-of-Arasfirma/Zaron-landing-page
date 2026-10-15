@@ -5,7 +5,7 @@ const socialLinks = [
   {
     name: "WhatsApp",
     icon: FaWhatsapp,
-    url: "", // Add actual WhatsApp URL
+    url: "https://wa.me/+919626299966", // Add actual WhatsApp URL
   },
   {
     name: "Instagram",

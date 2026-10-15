@@ -8,7 +8,7 @@ import {
 import { Mail, MapPin, Phone } from "lucide-react";
 
 const socialLinks = [
-  { name: "WhatsApp", icon: FaWhatsapp, url: "" },
+  { name: "WhatsApp", icon: FaWhatsapp, url: "https://wa.me/+919626299966" },
   { name: "Instagram", icon: FaInstagram, url: "https://www.instagram.com/rajalakshmi_roofing?igsh=dGJzZWxhbXZkeHU5" },
   { name: "Facebook", icon: FaFacebookF, url: "https://www.facebook.com/people/Rajalakshmi-Roofings/pfbid026fUyHM24PcnJJQNpQPECQmHeMLuiviSnG7MjUW68TfTRd3ohDvpS31LeN7p5d4AWl/?rdid=qCt123OppOGV1yLz&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18U7y9aXzH%2F"}, // Add actual Facebook URL" 
   { name: "YouTube", icon: FaYoutube, url: "https://www.youtube.com/@rajalakshmiroofing3035" },
